@@ -63,7 +63,7 @@ gateways:
       targetPort: 15443
 
 mixer:
-  telemtery:
+  telemetry:
     autoscaleEnabled: false
 
 pilot:

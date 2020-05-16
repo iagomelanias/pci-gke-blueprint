@@ -44,7 +44,7 @@ gateways:
       ISTIO_META_REQUESTED_NETWORK_VIEW: "external"
 
 mixer:
-  telemtery:
+  telemetry:
     autoscaleEnabled: false
 
 pilot:
